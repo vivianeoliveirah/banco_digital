@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "libs/my-library.jar",
+    "libs/another-library.jar"
+  ],
+  "java.project.sourcePaths": ["src"]
+}
